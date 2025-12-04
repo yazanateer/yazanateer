@@ -55,14 +55,5 @@ A **production-grade distributed system** with:
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yazanateer&show_icons=true&theme=react&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanateer&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/yazanateer) • GitHub • Email  
+[LinkedIn](https://www.linkedin.com/in/yazanateer)   
