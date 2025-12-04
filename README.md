@@ -14,11 +14,6 @@ I specialize in:
 - **MySQL, MongoDB, Redis**  
 - **Full-Stack: Laravel + Vue.js (TS) + Inertia.js**
 
-I'm currently building:
-- **AlertHub** — a **10-microservice distributed system** with Kafka + K8s  
-- **Genegix** — a cloud-based AI-powered software solutions platform  
-- Several full-stack apps using Laravel + Vue.js
-
 ---
 
 ### 🛠️ Tech Stack  
